@@ -1,12 +1,12 @@
 /*
 Simple GPIO
 
-A simple Arduino sketch that turn off and on the onboard relais and leds of the Lucky Shield.
+A simple Arduino sketch that turns off and on the onboard relays and leds of the Lucky Shield.
 When the joystick is moved on the left, led n1 and relay n1 are turned on,
-when the joystick is moved on the right, led n2 and relay n2 are turned off.
+When the joystick is moved on the right, led n2 and relay n2 are turned off.
 
-The following pins are defined in the Lucky Shield library, they directly map the digitals
-of the Lucky Shield
+The following pins are defined in the Lucky Shield library, they directly map the digital I/O 
+pins of the Lucky Shield
 
 LED1: on board first LED
 LED2: on board second LED
